@@ -1,0 +1,17 @@
+/* styles.css */
+
+.person {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    max-width: 300px;
+  }
+  
+  h2 {
+    margin: 0;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
